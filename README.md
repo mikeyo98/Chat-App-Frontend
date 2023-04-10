@@ -1,6 +1,6 @@
 # Chat-App-Frontend
-This is a template for a chat application
-
+A chat bot for test
+<a href="https://mikeyo98.github.io/Chat-App-Frontend/chat.html">go to page</a>
 <ul>
   <strong>Description of Pages</strong>
 
